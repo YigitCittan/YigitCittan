@@ -1,7 +1,10 @@
-<p align="left">Merhaba 👋, ben Yiğit Cittan</p>
+<p align="left">🚀 Hello, I'm Yiğit Cittan!</p>
 
 ###
 
+<p align="left">I'm an Electrical and Electronics Engineer with a deep passion for software development and embedded systems. I love working on projects that blend hardware and software, bringing innovative solutions to life.</p>
+
+###
 <p align="left">Connect with me:</p>
 
 ###
