@@ -2,7 +2,7 @@ name: Update README Contribution Graph
 
 on:
   schedule:
-    - cron: '*/1 * * * *' # Her 1 dakikada bir çalışır
+    - cron: '0 0 * * *' # Her gün saat 00:00'da çalışır
   workflow_dispatch:
 
 jobs:
@@ -18,16 +18,13 @@ jobs:
         run: |
           DAY=$(date +%d)
           if [ $((DAY % 2)) -eq 0 ]; then
-            echo "graph=snake" >> $GITHUB_OUTPUT
+            echo "GRAPH=snake" >> $GITHUB_ENV
           else
-            echo "graph=pacman" >> $GITHUB_OUTPUT
+            echo "GRAPH=pacman" >> $GITHUB_ENV
           fi
 
       - name: Replace Graph in README
         run: |
-          GRAPH="${{ steps.graph.outputs.graph }}"
-          echo "Using graph: $GRAPH"
-
           if [[ "$GRAPH" == "snake" ]]; then
             GRAPH_TAG='<img alt="snake contribution graph" src="https://raw.githubusercontent.com/YigitCittan/YigitCittan/output/github-contribution-grid-snake.svg">'
           else
@@ -50,5 +47,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update contribution graph" || echo "No changes to commit"
+          git commit -m "Update contribution graph to $GRAPH"
           git push
