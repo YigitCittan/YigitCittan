@@ -52,8 +52,9 @@
 </div>
 
 ###
+<img src="https://raw.githubusercontent.com/YigitCittan/YigitCittan/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" />
 
-<img src="https://raw.githubusercontent.com/YigitCittan/YigitCittan/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
