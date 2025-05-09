@@ -18,13 +18,16 @@ jobs:
         run: |
           DAY=$(date +%d)
           if [ $((DAY % 2)) -eq 0 ]; then
-            echo "GRAPH=snake" >> $GITHUB_ENV
+            echo "graph=snake" >> $GITHUB_OUTPUT
           else
-            echo "GRAPH=pacman" >> $GITHUB_ENV
+            echo "graph=pacman" >> $GITHUB_OUTPUT
           fi
 
       - name: Replace Graph in README
         run: |
+          GRAPH="${{ steps.graph.outputs.graph }}"
+          echo "Using graph: $GRAPH"
+
           if [[ "$GRAPH" == "snake" ]]; then
             GRAPH_TAG='<img alt="snake contribution graph" src="https://raw.githubusercontent.com/YigitCittan/YigitCittan/output/github-contribution-grid-snake.svg">'
           else
@@ -47,5 +50,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update contribution graph to $GRAPH" || echo "No changes to commit"
+          git commit -m "Update contribution graph" || echo "No changes to commit"
           git push
