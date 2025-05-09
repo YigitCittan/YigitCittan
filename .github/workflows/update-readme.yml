@@ -2,7 +2,7 @@ name: Update README Contribution Graph
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Her gün saat 00:00'da çalışır
+    - cron: '*/1 * * * *' # Her 1 dakikada bir çalışır
   workflow_dispatch:
 
 jobs:
@@ -47,5 +47,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update contribution graph to $GRAPH"
+          git commit -m "Update contribution graph to $GRAPH" || echo "No changes to commit"
           git push
