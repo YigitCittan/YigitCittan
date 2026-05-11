@@ -32,7 +32,7 @@
 
   <a href="mailto:yigit.cittan00@gmail.com">
 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" style="vertical-align:top; margin-left:10px;" />
 
   </a>
 
