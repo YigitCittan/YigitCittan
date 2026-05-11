@@ -22,11 +22,21 @@
 
 
 
-| LinkedIn | Gmail |
+<div align="left">
 
-| :--- | :--- |
+  <a href="https://www.linkedin.com/in/yigitcittan/" target="_blank">
 
-| <a href="https://www.linkedin.com/in/yigitcittan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a> | <a href="mailto:yigit.cittan00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a> |
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+
+  </a>
+
+  <a href="mailto:yigit.cittan00@gmail.com">
+
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo" />
+
+  </a>
+
+</div>
 
 
 
@@ -38,43 +48,33 @@
 
 
 
-#### **Backend & Architecture**
+**Backend & Architecture**
 
-| C# | .NET | Go | RabbitMQ | PostgreSQL | Redis | MongoDB |
+<div align="left">
 
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp logo" /><img width="12" /><img src="https://cdn.simpleicons.org/dotnet/512BD4" height="35" alt="dot-net logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="go logo" /><img width="12" /><img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="35" alt="rabbitmq logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="35" alt="redis logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="mongodb logo" />
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> |
-
-
-
-#### **Infrastructure & DevOps**
-
-| Docker | Nginx | Ubuntu | AWS |
-
-| :---: | :---: | :---: | :---: |
-
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40"/> |
+</div>
 
 
 
-#### **Frontend & Design**
+**Infrastructure & DevOps**
 
-| Next.js | Angular | TypeScript | Tailwind |
+<div align="left">
 
-| :---: | :---: | :---: | :---: |
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="nginx logo" /><img width="12" /><img src="https://cdn.simpleicons.org/traefik/24A1C1" height="35" alt="traefik logo" /><img width="12" /><img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" height="35" alt="aws s3 logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="35" alt="ubuntu logo" />
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/> |
+</div>
 
 
 
-#### **Embedded & IoT**
+**Frontend & Embedded**
 
-| C++ | Arduino | Raspberry Pi |
+<div align="left">
 
-| :---: | :---: | :---: |
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="35" alt="nextjs logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="35" alt="angular logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo" /><img width="12" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="35" alt="cplusplus logo" /><img width="12" /><img src="https://cdn.simpleicons.org/arduino/00979D" height="35" alt="arduino logo" /><img width="12" /><img src="https://cdn.simpleicons.org/raspberrypi/C51A4A" height="35" alt="raspberrypi logo" />
 
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/> |
+</div>
 
 
 
