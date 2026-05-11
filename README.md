@@ -59,10 +59,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/YigitCittan/YigitCittan/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YigitCittan/count.svg?"  />
-</div>
-
-###
