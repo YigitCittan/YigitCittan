@@ -1,6 +1,6 @@
 # 🚀 Yiğit Cıttan
 
-###Software Engineer & Electrical-Electronics Engineer
+### Software Engineer & Electrical-Electronics Engineer
 
 
 
@@ -22,11 +22,7 @@
 
 
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/yigitcittan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="mailto:yigit.cittan00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a>
-
-</p>
+<p align="left"><a href="https://www.linkedin.com/in/yigitcittan/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>&nbsp;<a href="mailto:yigit.cittan00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" /></a></p>
 
 
 
