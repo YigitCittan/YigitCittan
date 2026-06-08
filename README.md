@@ -1,5 +1,5 @@
 # 🚀 Yiğit Cıttan
-### Senior Software Engineer & Electrical-Electronics Engineer
+### Software Engineer & Electrical-Electronics Engineer
 
 <p align="left">
   Software engineer specializing in large-scale backend architectures, microservices orchestration, and end-to-end infrastructure automation. 
